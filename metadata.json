@@ -1,0 +1,6 @@
+{
+  "name": "Dark — Personal Intelligence System",
+  "description": "A futuristic personal AI operating system and command center powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
